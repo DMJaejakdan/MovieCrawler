@@ -175,6 +175,7 @@ data/
 
 # Jupyter Notebook
 jupyter_notebook/
+.idea/
 
 # exec
 exec/
